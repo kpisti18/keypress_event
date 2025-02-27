@@ -25,4 +25,4 @@ function jelszo(textarea, demoSpan) {
     }
 
     demoSpan.textContent = csillag;
-}
+} 
